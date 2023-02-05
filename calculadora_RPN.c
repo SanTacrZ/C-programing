@@ -59,7 +59,7 @@ void printMenu(void){
     /*Funcion para imprimir las opciones*/
     prinStack();
     printf("[*]------------------------------------------------[*]\n");
-    printf("[*]----CALCULADORA RPN by: Sebastian Santacruz-----[*]\n");
+    printf("[*]---- CALCULADORA RPN by: Sebastian Santacruz ---[*]\n");
     printf("[*]                                                [*]\n");
     printf("[*]            1. Ingresar un número               [*]\n");
     printf("[*]           2. Seleccione Operacion              [*]\n");
