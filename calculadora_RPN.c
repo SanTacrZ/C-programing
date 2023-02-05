@@ -7,7 +7,7 @@ float stack[8];
 void prinStack(void){
     /*Funcion para imprimir la pila, tener en cuenta que la posición que muestra como (8) es
     la posición [0] de la fila*/
-    printf("[*]---CALCULADORA RPN by: Sebastian Santacruz---[*]\n");
+    
     printf("                Pila actual: \n");
     for (int i = 0; i < 8; i++){
         printf("      %d)",8 - i);
@@ -59,6 +59,7 @@ void printMenu(void){
     /*Funcion para imprimir las opciones*/
     prinStack();
     printf("[*]------------------------------------------------[*]\n");
+    printf("[*]---CALCULADORA RPN by: Sebastian Santacruz---[*]\n");
     printf("[*]                                                [*]\n");
     printf("[*]            1. Ingresar un número               [*]\n");
     printf("[*]           2. Seleccione Operacion              [*]\n");
