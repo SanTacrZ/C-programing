@@ -1,4 +1,8 @@
 # C-programing
+TALLER 1 FILOSOFOS COMENSALES
+![image](https://user-images.githubusercontent.com/29224671/223501130-65013031-3762-4687-a1e3-0d5c655bea80.png)
+
+
 EJERCICIO FORK
 
 ![FORKHIJOS](https://user-images.githubusercontent.com/29224671/220223392-eb352def-ea36-40c7-9baf-175b8ce7eecc.png)
