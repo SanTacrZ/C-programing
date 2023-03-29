@@ -1,4 +1,8 @@
+
 # C-programing
+EJERCICIO MULTIPROCESOS
+![queue_example](https://user-images.githubusercontent.com/29224671/228418832-4bc38ea7-2524-4fb8-af5b-ae8a7e35ecb4.png)
+
 EJERCICIO SOCKET CLIENTE SERVIDOR
 ![image](https://user-images.githubusercontent.com/29224671/225476726-7372e644-0580-48fb-99b4-c8f8fe564e72.png)
 
