@@ -1,4 +1,8 @@
 # C-programing
+EJERCICIO SOCKET CLIENTE SERVIDOR
+![image](https://user-images.githubusercontent.com/29224671/225476726-7372e644-0580-48fb-99b4-c8f8fe564e72.png)
+
+
 TALLER 1 FILOSOFOS COMENSALES
 ![image](https://user-images.githubusercontent.com/29224671/223501130-65013031-3762-4687-a1e3-0d5c655bea80.png)
 
