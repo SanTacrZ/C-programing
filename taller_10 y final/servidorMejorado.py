@@ -53,7 +53,7 @@ def jugar_triki(conn):
             turno = "O" if turno == "X" else "X"
 
     # Mostrar el tablero final
-    tablero_str = f" {tablero[0]} | {tablero[1]} | {tablero[2]} \n---+---+---\n {tablero[3]} | {tablero[4]} | {tablero[5]} \n---+---+---\n {tablero[6]} | {tablero[7]} | {tablero[8]} "
+    tablero_str = f"\n {tablero[0]} | {tablero[1]} | {tablero[2]} \n---+---+---\n {tablero[3]} | {tablero[4]} | {tablero[5]} \n---+---+---\n {tablero[6]} | {tablero[7]} | {tablero[8]} "
     conn.sendall(tablero_str.encode())
 
     # Mostrar el resultado del juego
