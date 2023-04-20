@@ -10,7 +10,7 @@ def procesamiento(file):
     image = image.filter(ImageFilter.GaussianBlur(2))
     image = image.rotate(45,expand=True)
     image = image.convert('L')
-    image = ImageOps.grayscale(image)
+    image = ImageOps.grayscale(image)#escala de grises
     image.save(output_dir+file)
     
 if not os.path.exists(output_dir):
