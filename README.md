@@ -1,5 +1,8 @@
 
 # C-programing
+trabajo final socket
+![image](https://user-images.githubusercontent.com/29224671/233489691-764cae65-c09e-4308-a466-683804a1a333.png)
+
 procesamiento de imagen escala de grises 
 ![image](https://user-images.githubusercontent.com/29224671/233487486-37b3b4b4-756b-400e-8d56-dc84fad357ab.png)
 
