@@ -1,5 +1,8 @@
 
 # C-programing
+procesamiento de imagen escala de grises 
+![image](https://user-images.githubusercontent.com/29224671/233487486-37b3b4b4-756b-400e-8d56-dc84fad357ab.png)
+
 EJERCICIO MULTIPROCESOS
 ![queue_example](https://user-images.githubusercontent.com/29224671/228418832-4bc38ea7-2524-4fb8-af5b-ae8a7e35ecb4.png)
 
